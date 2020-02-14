@@ -1,4 +1,4 @@
-# Emotion-Classification-Ravdess
+# emotion-recognition-ravdess 
 
 # The project
 
@@ -12,13 +12,13 @@ The samples comes from:
 
 - Audio-only files;
 
-- Video + audio files: I have extracted the audio from each file using the script **Mp4ToWav.py** that you can find in the main directory of the project.
+- Video + audio files: I have extracted the audio from each file using the script **videotoaudio.py** that you can find in the main directory of the project.
 
 The classes we are trying to predict are the following: (01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised)
 
 # Result of the application of a Neural Network to this dataset
 
-**95.9%** accuracy on the training set and **91%** on the test set.
+**93.9%** accuracy on the training set and **90.1%** on the test set.
 
 # Loss and accuracy plots
 
@@ -26,7 +26,6 @@ The classes we are trying to predict are the following: (01 = neutral, 02 = calm
 
 ![Link to accuracy](https://github.com/pranshurastogi29/emotion-recognition-ravdess/blob/master/media/accuracy.png)
 
-# About the RAVDESS dataset
 
 **Download**
 
