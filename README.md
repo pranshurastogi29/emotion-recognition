@@ -22,9 +22,9 @@ The classes we are trying to predict are the following: (01 = neutral, 02 = calm
 
 # Loss and accuracy plots
 
-![Link to loss](/blob/master/media/loss.png) 
+![Link to loss](https://github.com/pranshurastogi29/emotion-recognition-ravdess/blob/master/media/loss.png) 
 
-![Link to accuracy](/blob/master/media/accuracy.png)
+![Link to accuracy](https://github.com/pranshurastogi29/emotion-recognition-ravdess/blob/master/media/accuracy.png)
 
 # About the RAVDESS dataset
 
