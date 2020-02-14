@@ -1,4 +1,4 @@
-# emotion-recognition-ravdess 
+# emotion-recognition
 
 # The project
 
